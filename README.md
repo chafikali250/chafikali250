@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chafik Ali :)
+# 👋 Hi, I'm Chafik Ali 
 
 I'm a DevOps Engineer passionate about Linux, AWS, Docker, Kubernetes, CI/CD, Git, GitHub Actions and more.
 
